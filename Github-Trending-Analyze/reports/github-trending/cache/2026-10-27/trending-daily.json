@@ -1,0 +1,356 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "Nutlope",
+    "name": "hallmark",
+    "fullName": "Nutlope/hallmark",
+    "projectLink": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 37983,
+    "forks": 1975,
+    "deltaStars": 2859,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Luffixos",
+        "profile": "https://github.com/Luffixos"
+      },
+      {
+        "login": "Nutlope",
+        "profile": "https://github.com/Nutlope"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "riccardogiorato",
+        "profile": "https://github.com/riccardogiorato"
+      },
+      {
+        "login": "JaySmith502",
+        "profile": "https://github.com/JaySmith502"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Nutlope /\n\n hallmark\n\n Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n CSS\n\n 37,983\n\n 1,975\n\n Built by\n\n 2,859 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "nightly-labs",
+    "name": "openbot",
+    "fullName": "nightly-labs/openbot",
+    "projectLink": "https://github.com/nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "language": "TypeScript",
+    "stars": 1912,
+    "forks": 218,
+    "deltaStars": 794,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "NorbertBodziony",
+        "profile": "https://github.com/NorbertBodziony"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Sniezka1927",
+        "profile": "https://github.com/Sniezka1927"
+      },
+      {
+        "login": "nrb-dev",
+        "profile": "https://github.com/nrb-dev"
+      },
+      {
+        "login": "aniruddhaadak80",
+        "profile": "https://github.com/aniruddhaadak80"
+      }
+    ],
+    "trendingSnippet": "Star\n\n nightly-labs /\n\n openbot\n\n A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\n TypeScript\n\n 1,912\n\n 218\n\n Built by\n\n 794 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "obra",
+    "name": "superpowers",
+    "fullName": "obra/superpowers",
+    "projectLink": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 305939,
+    "forks": 27248,
+    "deltaStars": 608,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "obra",
+        "profile": "https://github.com/obra"
+      },
+      {
+        "login": "arittr",
+        "profile": "https://github.com/arittr"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "clkao",
+        "profile": "https://github.com/clkao"
+      },
+      {
+        "login": "arimu1",
+        "profile": "https://github.com/arimu1"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n obra /\n\n superpowers\n\n An agentic skills framework & software development methodology that works.\n\n Shell\n\n 305,939\n\n 27,248\n\n Built by\n\n 608 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "Rust",
+    "stars": 89903,
+    "forks": 5344,
+    "deltaStars": 1458,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design language that makes your AI harness better at design.\n\n Rust\n\n 89,903\n\n 5,344\n\n Built by\n\n 1,458 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "makecindy",
+    "name": "cindy",
+    "fullName": "makecindy/cindy",
+    "projectLink": "https://github.com/makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "language": "TypeScript",
+    "stars": 7150,
+    "forks": 858,
+    "deltaStars": 1446,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dashhuang",
+        "profile": "https://github.com/dashhuang"
+      },
+      {
+        "login": "zqchris",
+        "profile": "https://github.com/zqchris"
+      },
+      {
+        "login": "MagicLizi",
+        "profile": "https://github.com/MagicLizi"
+      },
+      {
+        "login": "DavidShenXD",
+        "profile": "https://github.com/DavidShenXD"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n makecindy /\n\n cindy\n\n Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\n TypeScript\n\n 7,150\n\n 858\n\n Built by\n\n 1,446 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "gitroomhq",
+    "name": "postiz-app",
+    "fullName": "gitroomhq/postiz-app",
+    "projectLink": "https://github.com/gitroomhq/postiz-app",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "language": "TypeScript",
+    "stars": 38909,
+    "forks": 7473,
+    "deltaStars": 953,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "nevo-david",
+        "profile": "https://github.com/nevo-david"
+      },
+      {
+        "login": "giladresisi",
+        "profile": "https://github.com/giladresisi"
+      },
+      {
+        "login": "egelhaus",
+        "profile": "https://github.com/egelhaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "jamesread",
+        "profile": "https://github.com/jamesread"
+      }
+    ],
+    "trendingSnippet": "Star\n\n gitroomhq /\n\n postiz-app\n\n 📨 The ultimate agentic social media scheduling tool 🤖\n\n TypeScript\n\n 38,909\n\n 7,473\n\n Built by\n\n 953 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "affaan-m",
+    "name": "ECC",
+    "fullName": "affaan-m/ECC",
+    "projectLink": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 290382,
+    "forks": 43021,
+    "deltaStars": 1183,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "affaan-m",
+        "profile": "https://github.com/affaan-m"
+      },
+      {
+        "login": "haelyra",
+        "profile": "https://github.com/haelyra"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "montjeffrey",
+        "profile": "https://github.com/montjeffrey"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n affaan-m /\n\n ECC\n\n The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n JavaScript\n\n 290,382\n\n 43,021\n\n Built by\n\n 1,183 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "HKUDS",
+    "name": "DeepTutor",
+    "fullName": "HKUDS/DeepTutor",
+    "projectLink": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+    "language": "Python",
+    "stars": 44940,
+    "forks": 5674,
+    "deltaStars": 1587,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pancacake",
+        "profile": "https://github.com/pancacake"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Pinkllow",
+        "profile": "https://github.com/Pinkllow"
+      },
+      {
+        "login": "evan188199-tech",
+        "profile": "https://github.com/evan188199-tech"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HKUDS /\n\n DeepTutor\n\n DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\n Python\n\n 44,940\n\n 5,674\n\n Built by\n\n 1,587 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "JetBrains",
+    "name": "thinkrail",
+    "fullName": "JetBrains/thinkrail",
+    "projectLink": "https://github.com/JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 3534,
+    "forks": 187,
+    "deltaStars": 1211,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rsolmano",
+        "profile": "https://github.com/rsolmano"
+      },
+      {
+        "login": "danyaberezun",
+        "profile": "https://github.com/danyaberezun"
+      },
+      {
+        "login": "OLavrik",
+        "profile": "https://github.com/OLavrik"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "SBOne-Kenobi",
+        "profile": "https://github.com/SBOne-Kenobi"
+      }
+    ],
+    "trendingSnippet": "Star\n\n JetBrains /\n\n thinkrail\n\n Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n TypeScript\n\n 3,534\n\n 187\n\n Built by\n\n 1,211 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "togg53192-cmd",
+    "name": "jailbreaks",
+    "fullName": "togg53192-cmd/jailbreaks",
+    "projectLink": "https://github.com/togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS",
+    "language": "",
+    "stars": 4919,
+    "forks": 783,
+    "deltaStars": 890,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "togg53192-cmd",
+        "profile": "https://github.com/togg53192-cmd"
+      },
+      {
+        "login": "raghavraut",
+        "profile": "https://github.com/raghavraut"
+      },
+      {
+        "login": "metalim",
+        "profile": "https://github.com/metalim"
+      },
+      {
+        "login": "reblox01",
+        "profile": "https://github.com/reblox01"
+      }
+    ],
+    "trendingSnippet": "Star\n\n togg53192-cmd /\n\n jailbreaks\n\n LIST OF ALL MY JAILBREAKS\n\n 4,919\n\n 783\n\n Built by\n\n 890 stars today"
+  }
+]
